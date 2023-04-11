@@ -1,0 +1,15 @@
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\yummie.csproj.AssemblyReference.cache
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\yummie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\yummie.AssemblyInfoInputs.cache
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\yummie.AssemblyInfo.cs
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\yummie.csproj.CoreCompileInputs.cache
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\bin\Debug\net6.0\yummie.exe
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\bin\Debug\net6.0\yummie.deps.json
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\bin\Debug\net6.0\yummie.runtimeconfig.json
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\bin\Debug\net6.0\yummie.dll
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\bin\Debug\net6.0\yummie.pdb
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\yummie.dll
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\refint\yummie.dll
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\yummie.pdb
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\yummie.genruntimeconfig.cache
+E:\Semester 8\Pemrograman C#\praktikum5-yummie\yummie\yummie\obj\Debug\net6.0\ref\yummie.dll
